@@ -101,4 +101,3 @@ def run(filename):
             else:
                 save_extension(screen, args[0])    
 
-run('script.mdl')
